@@ -3,7 +3,7 @@ I'm Jimlv（lvpeng）, a Chinese Full Stack Developer.
 
 - 🔭 I’m currently working on ? (It's a secret now!)
 - 🌱 I’m currently learning Golang.
-- 💬 My Blog: [宁静致远](http://www.lyupeng.cn/) 
+- 💬 My Blog: [lyupeng's blog](http://www.lyupeng.cn/) 
 - 📫 My Resume: <a href="http://www.lyupeng.cn/Resume.html" target="_blank">Here</a>
 
 
