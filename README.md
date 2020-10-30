@@ -1,5 +1,7 @@
 ### Hi there 👋
-I'm Jimlv（lvpeng）, a Chinese Full Stack Developer.
+**Thanks for visiting my GitHub profile, it's great to meet you here!** 😊
+
+Here are some quick things about me:
 
 - 🔭 I’m currently working on ? (It's a secret now!)
 - 🌱 I’m currently learning Golang.
