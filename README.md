@@ -6,7 +6,7 @@ Here are some quick things about me:
 - 🔭 I’m currently working on ? (It's a secret now!)
 - 🌱 I’m currently learning Golang.
 - 💬 My Blog: [lyupeng's blog](http://www.lyupeng.cn/) 
-- 📫 My Resume: <a href="http://www.lyupeng.cn/Resume.html" target="_blank">Here</a>
+
 
 
 
