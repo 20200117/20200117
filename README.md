@@ -6,11 +6,6 @@ Here are some quick things about me:
 - 🔭 I’m currently working on ? (It's a secret now!)
 - 🌱 I’m currently learning Golang.
 - 💬 My Blog: [lyupeng's blog](http://www.lyupeng.cn/) 
-
-
-
-
-
 ### Languages & Tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -27,10 +22,15 @@ Here are some quick things about me:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
-![lyupengpublish's github stats](https://github-readme-stats.vercel.app/api?username=lyupeng-cn&show_icons=true&theme=radical)
+<a href="http://www.lyupeng.cn">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lyupeng-cn&show_icons=true" />
+</a>
+<a href="http://www.lyupeng.cn">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyupeng-cn&hide=html,ruby" />
+</a>
 
 <!--
-**csvwolf/csvwolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lyupeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -43,3 +43,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
