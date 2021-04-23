@@ -1,3 +1,9 @@
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/lyupeng-cn/count.svg" />
+</p>
+
+
 ### Hi there 👋
 **Thanks for visiting my GitHub profile, it's great to meet you here!** 😊
 
