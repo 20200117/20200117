@@ -30,10 +30,10 @@ Here are some quick things about me:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
 <a href="http://www.lyupeng.cn">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lyupeng-cn&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=20200117&show_icons=true" />
 </a>
 <a href="http://www.lyupeng.cn">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyupeng-cn&hide=html,ruby" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=20200117&hide=html,ruby" />
 </a>
 
 <!--
